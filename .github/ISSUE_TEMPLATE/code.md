@@ -1,4 +1,12 @@
-**Repository URL (If applicable)**
+---
+name: Code related
+about: Ask a code-related question
+title: ''
+labels: ''
+assignees: ''
+
+---
+**Repository URL**
 A link to your course Github repository. Make sure you've pushed any latest changes.
 
 **Describe the problem**
