@@ -1,6 +1,6 @@
 ---
 name: Code related
-about: Ask a code-related question
+about: Ask a question about code (from your projects, the lectures, practice tasks, etc.)
 title: ''
 labels: ''
 assignees: ''
