@@ -9,6 +9,9 @@ assignees: ''
 **Repository URL**
 A link to your course Github repository. Make sure you've pushed any latest changes.
 
+**Production URL**
+A link to your application on production (If applicable/available).
+
 **Describe the problem**
 A clear and concise description of what the problem is. 
 
@@ -21,3 +24,4 @@ Steps to reproduce the behavior:
 
 **Additional context**
 Add any other context about the problem here.
+
