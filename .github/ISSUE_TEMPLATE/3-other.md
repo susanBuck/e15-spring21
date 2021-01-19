@@ -1,6 +1,6 @@
 ---
 name: Other
-about: Ask a general question
+about: Open-ended
 title: ''
 labels: ''
 assignees: ''
