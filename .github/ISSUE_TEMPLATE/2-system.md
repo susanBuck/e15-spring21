@@ -1,6 +1,6 @@
 ---
 name: System
-about: Ask a system-related (e.g servers, command line, git, etc.) question that is not code-specific 
+about: Ask a system-related question that is not code-specific (e.g questions about servers, command line, git, etc.)
 title: ''
 labels: ''
 assignees: ''
